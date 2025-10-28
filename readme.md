@@ -1,6 +1,6 @@
 # TCC de Engenharia de Computação - Copiador de controles remotos infravermelhos com interface WEB
 
-O artigo final do TCC encontra-se em [artigo.pdf]("artigo.pdf")
+O artigo final do TCC encontra-se em [artigo.pdf](./artigo.pdf)
 O artigo enuncia os requisitos de hardware, bem como a circuitaria.
 
 ## Requisitos de software
