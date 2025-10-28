@@ -1,0 +1,26 @@
+#ifndef INDEX_H
+#define INDEX_H
+
+const char HTML_CONTENT[] PROGMEM = R"rawliteral(
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle Remoto IR</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div id="app">
+        <div class="loading">
+            <div class="spinner"></div>
+            <p>Carregando...</p>
+        </div>
+    </div>
+    <div id="toast-container"></div>
+    <script src="/script.js"></script>
+</body>
+</html>
+)rawliteral";
+
+#endif
